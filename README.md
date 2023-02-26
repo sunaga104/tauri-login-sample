@@ -1,3 +1,9 @@
+# Tauri Login sample
+
+Samples can be tried in test/test.
+
+![image1](s1.png) 
+
 # Tauri + Next.js + Typescript
 
 This template should help get you started developing with Tauri, Next.js and Typescript.
